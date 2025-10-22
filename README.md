@@ -29,14 +29,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👨‍💻  Sobre mim</h3>
 
 <p align="left">
-Sou desenvolvedor com foco em <strong>Laravel/PHP</strong> e <strong>ASP.NET</strong>, construindo aplicações web robustas com <strong>HTML/CSS</strong> e <strong>MySQL</strong>.<br><br>
-- 🔭 Atuando em projetos com <strong>APIs REST</strong>, <strong>autenticação</strong>, <strong>filas</strong> e <strong>integrações</strong>.<br>
-- 📚 No momento, aprimorando <strong>boas práticas</strong>, <strong>arquitetura limpa</strong> e <strong>CI/CD</strong>.<br>
-- ⚡ No tempo livre, estudo <strong>performance</strong> (caching, índices) e refino <strong>UX</strong>.
+Sou desenvolvedor focado em <strong>Laravel/PHP</strong> e <strong>ASP.NET</strong>, construindo APIs e aplicações web escaláveis. Trabalho com <strong>HTML/CSS</strong> no front e <strong>MySQL</strong> no back, sempre priorizando performance e boas práticas.
 </p>
+
+<ul align="left">
+  <li>🔧 <strong>Stack:</strong> Laravel, PHP, ASP.NET, HTML/CSS, MySQL</li>
+  <li>🚀 <strong>Dia a dia:</strong> APIs REST, autenticação/ACL, integrações, filas (jobs) e caching</li>
+  <li>🧪 <strong>Interesses:</strong> arquitetura limpa, testes (Pest/PHPUnit), logs/observabilidade</li>
+  <li>⚙️ <strong>Entregas:</strong> CI/CD com GitHub Actions, versionamento semântico e code review</li>
+</ul>
 
 ###
 
@@ -62,7 +66,7 @@ Sou desenvolvedor com foco em <strong>Laravel/PHP</strong> e <strong>ASP.NET</st
 
 <div align="center">
   <!-- Principais linguagens (auto a partir do GitHub) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoadfbagle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoadfbagle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&cache_seconds=86400" height="170" alt="top languages" />
 </div>
 
 <div align="center">
