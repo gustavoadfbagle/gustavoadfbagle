@@ -7,13 +7,13 @@
 <div align="center">
   <!-- Substitua os href="#" pelos seus links reais -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0D1117&logoColor=0A66C2&labelColor=0D1117&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=0D1117&logoColor=FF0000&labelColor=0D1117&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0D1117&logoColor=1DA1F2&labelColor=0D1117&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -62,15 +62,15 @@ Sou desenvolvedor com foco em <strong>Laravel/PHP</strong> e <strong>ASP.NET</st
 
 <div align="center">
   <!-- Principais linguagens (auto a partir do GitHub) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoadfbagle&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="170" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoadfbagle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="top languages" />
 </div>
 
 <div align="center">
   <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoadfbagle&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=pt-br" height="170" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoadfbagle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&locale=pt-br&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170" alt="github stats" />
 </div>
 
 <div align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=gustavoadfbagle&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gustavoadfbagle&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
