@@ -54,7 +54,7 @@ No front-end, utilizo <b>JavaScript, HTML e CSS</b> para construir interfaces ob
 
 <h3 align="left">📈  Gráficos</h3>
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td>
@@ -65,7 +65,7 @@ No front-end, utilizo <b>JavaScript, HTML e CSS</b> para construir interfaces ob
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gustavoadfbagle&locale=pt_BR&mode=daily&hide_border=true&border_radius=5&cache_seconds=86400&theme=dracula&background=0D1117&border=30363D&ring=3B5CCC&fire=3B5CCC&currStreakNum=3B5CCC&currStreakLabel=3B5CCC&sideNums=3B5CCC&sideLabels=9AA4B3&dates=8B949E" height="200" alt="streak graph"  />
