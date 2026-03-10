@@ -17,14 +17,15 @@
 <h3 align="left">👨‍💻  Sobre mim</h3>
 
 <p align="left">
-Sou desenvolvedor focado em <strong>Laravel/PHP</strong> e <strong>ASP.NET</strong>, construindo APIs e aplicações web escaláveis. Trabalho com <strong>HTML/CSS</strong> no front e <strong>MySQL</strong> no back, sempre priorizando performance e boas práticas.
+Desenvolvedor web especializado em <b>PHP/Laravel</b> e <b>Vue.js</b>, com experiência na construção de sistemas, APIs e integrações voltadas para performance, escalabilidade e boa manutenção.
+No front-end, utilizo <b>JavaScript, HTML e CSS</b> para construir interfaces objetivas e funcionais. No back-end, atuo com regras de negócio, autenticação, integrações e modelagem de dados com <b>MySQL</b> e <b>PostgreSQL</b>, sempre priorizando boas práticas, legibilidade e organização do projeto.
 </p>
 
 <ul align="left">
-  <li>🔧 <strong>Stack:</strong> Laravel, PHP, ASP.NET, HTML/CSS, MySQL</li>
-  <li>🚀 <strong>Dia a dia:</strong> APIs REST, autenticação/ACL, integrações, filas (jobs) e caching</li>
-  <li>🧪 <strong>Interesses:</strong> arquitetura limpa, testes (Pest/PHPUnit), logs/observabilidade</li>
-  <li>⚙️ <strong>Entregas:</strong> CI/CD com GitHub Actions, versionamento semântico e code review</li>
+  <li>🔧 <strong>Stack:</strong> PHP, Laravel, Vue.js, JavaScript, HTML, CSS</li>
+  <li>🗄️ <strong>Banco de dados:</strong> MySQL, PostgreSQL</li>
+  <li>🚀 <strong>Atuação:</strong> APIs REST, integrações, autenticação, regras de negócio e aplicações web</li>
+  <li>📚 <strong>Foco:</strong> Performance, arquitetura limpa e qualidade de código</li>
 </ul>
 
 ###
